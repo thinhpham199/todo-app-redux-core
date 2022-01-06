@@ -1,7 +1,7 @@
 const initState = {
     search: '',
     status: 'All',
-    priority: []
+    priorities: []
 
 }
 
